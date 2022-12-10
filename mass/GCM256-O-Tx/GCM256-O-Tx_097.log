@@ -1,0 +1,12 @@
+
+>> Encrypting AES GCM 256 ...
+
+	E 1043 cIn = 1066392 cOut = 1066392
+
+	Encryption time in miliseconds: Et = 0.979156 
+
+>> Decrypting AES GCM 256 ...
+
+	D 1043 cIn = 1066392 cOut = 1066392
+
+	Decryption time in miliseconds: Dt = 0.959912 

@@ -1,0 +1,10 @@
+
+>> Encrypting...
+
+	E 5162 cIn = 5283978 cOut = 5283984
+	Encryption time in miliseconds: Et = 10.773064 
+
+>> Decrypting...
+
+	D 5122 cIn = 5283984 cOut = 5283978
+	Decryption time in miliseconds: Dt = 3.046188 
